@@ -1,0 +1,60 @@
+# Presentation Script
+
+- Introductions
+    - Briefly introduce team
+        - maybe mention each persons role?
+    - Give a hook
+        - could be a story about why the product is important to one of us personally
+        - give the scale of how many people the product could potentially help
+    - Clearly state the problem
+        - The need for accurate eye health screening without going to a doctor
+- Product Description
+    - Provide Overview of VisionGuard
+        - list out primary functionalities  - maybe here we can figure out what other functionalities we can add so the specific ones can be Glaucoma Detection and Cataract Detection
+            - Glaucoma Detection - just briefly mention it here
+            - Cataract Detection - ^
+        - Explain how AI is being used to fulfill those functionalities / diagnose the eye issues
+        - Here we can mention some future functionalities that we wish to add
+- Novelty
+    - In this section we try to sell our product, explaining the unique things about our app and our product (we can either briefly mention our competitors, or fully explain the competitors in a completely separate section)
+    - Here we need to highlight the reliability of our product (we can maybe mention that we will get approved by ophthalmologist’s)
+        - the typical “9 out of 10 recommend” marketing scheme but idk how we can fit that in if we haven’t done it yet
+- Glaucoma Test
+    - Here we can actually go into the specifics of how the glaucoma test works (we could do this part earlier if it seems more appropriate)
+    - Share any studies that support the efficacy of this method
+        - here we provide details of why our app is especially accurate at doing this
+- Cataract Detection
+    - Describe how our app is going to detect cataracts in users eyes
+        - Computer Vision, image classification model
+            - here going into specifics will be nice, so it seems to our panel we know what we are talking about and we have done extensive research
+    - Mention how the user’s can interpret the results from the scan
+- User Experience
+    - We can talk about navigating through the app and how seamless it is
+        - this section will only be done using our figma designs, since we will not have an actual app to showcase
+- Data and Privacy
+    - here we can address the privacy of our users and how we will not be publicly displaying any of the data
+    - we can potentially talk about encryption here to prevent user data from being stolen by cyberattacks
+- Validation
+    - we can mention any positive results we’ve had personally during our testing phase of the features of the app
+- Combination of a few sections
+    - Here I think we should combine a few topics together because they connect with each other well
+    - we first need to talk about future plans, what things we want to add in the future, potential partners that we can create, etc
+    - we need to then amplify our future plans by emphasizing the current market
+        - we need to “prove” that the market is asking for this type of product (we can’t solve a problem that doesn’t exist”
+    - Then we can quickly connect that into our competitors, if there are any, and how much better we are from them
+- Demo
+    - we can change when exactly we do the demo (if we do one at all)
+- Impact
+    - I wanna keep this close to the end because the beginning and end of presentations are more easily remembered by the audience
+    - here we need to show that our product helps underprivileged communities that don’t have access to qualified Ophthalmologists and people with potential severe issues and just simply don’t have the ability to find out.
+        - Giving them the ability to test themselves allows them to search for help quicker
+- Conclusion
+    - summarize key points
+        - Reiterate functionalities
+            - glaucoma test, Cataract Detection
+        - Reiterate future plans
+            - Other eye-related detection mechanisms
+        - Social Impact
+            - revolutionize visual screening
+- I am not sure if there will be a Q&A after our presentation but be prepared nonetheless
+- Say “Thank You” to the panel for their time
